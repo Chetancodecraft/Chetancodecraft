@@ -4,12 +4,11 @@
 ## 🔹 About Me  
 - 🎓 **Graduation (2025)**, preparing for placements  
 - 💻 Passionate about **Backend Development** and **Databases**  
-- 🏆 **Competitive Programmer**, practicing **HashMaps, Linked Lists, and String problems**  
 - 🔍 Exploring **Spring Boot, MySQL, and React.js** for Full-Stack Development  
 
 ## 🔹 Projects  
 - 📘 **Book Social Network** – A platform for book lovers  
-- 🏥 **Govt. Health Schemes Website** – Informative portal using React.js & Spring Boot  
+- 🏥 **Govt. Health Schemes Website** – Informative portal using NODE.JS,HTML,CSS,JavaScript,MySQL  
 - 📊 **Quiz App for DSA Practice** – Built with Java Spring Boot & MySQL  
 - 🚆 **IRCTC Train Ticket Booking System** – A work-in-progress Java project  
 
