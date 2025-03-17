@@ -9,7 +9,8 @@
 ## 🔹 Projects  
 - 🏥 **Govt. Health Schemes Website** – Informative portal using NODE.JS,HTML,CSS,JavaScript,MySQL  
 - 📊 **Quiz App for DSA Practice** – Built with Java Spring Boot & MySQL  
-- 🚆 **IRCTC Train Ticket Booking System** – A work-in-progress Java project  
+- 🚆 **IRCTC Train Ticket Booking System** – A work-in-progress Java project
+- 🪪 **Spring Boot CRUD Application** -This is a simple Spring Boot CRUD (Create, Read, Update, Delete) application that manages student data using Spring Boot, JPA, and MySQL.
 
 ## 🔹 Technical Skills  
 - **Languages:** Java, SQL, JavaScript  
